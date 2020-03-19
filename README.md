@@ -6,8 +6,10 @@ An Ackermann function is one of the first(or earliest examples) of a function wh
 Just as a heads up, the big crunch will come before `m = 4, n = 2` completes.
 
 ## Build and Run
-Build command - `clang main.c -o program` where `-o` is what you want t call the compiled program
+Build command - `clang main.c -o program` where `-o` is what you want t call the compiled program.
+
 Run command - `./program`
+
 Easy.
 
 ## Future enhancements
